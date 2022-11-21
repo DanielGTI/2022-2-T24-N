@@ -31,8 +31,8 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * **01/12/2022** 
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
-	+ Preenchimento do formulário formalizando a entrega do projeto. (O formulário de entrega será disponibilizado em 01/11/22)
-
+	+ Preenchimento do formulário formalizando a entrega do projeto. Link: https://forms.gle/inwcRRPzEvPGF2cUA
+	+ Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 
     
 ## Professores
